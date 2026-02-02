@@ -27,11 +27,12 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - Primary stakeholders:
 - Suggested timeline / milestones:
 - Quick risks & dependencies:
-- Proposed team / roles:
+- Proposed team / roles: (Use the [Project Role Checklist](octoacme-project-role-checklist.md) to identify required roles and assign owners. See [Roles & Personas](octoacme-roles-and-personas.md) for role descriptions.)
 
 ## Initiation Checklist
 - [ ] One-pager completed and reviewed by Product Lead
 - [ ] Sponsor / Stakeholder alignment (email or meeting)
+- [ ] Team roles identified using [Project Role Checklist](octoacme-project-role-checklist.md)
 - [ ] Decision: Approve to move into planning?
 - [ ] Create repo or project board skeleton
 - [ ] Add initial artifacts to repo (docs/ or .copilot/)

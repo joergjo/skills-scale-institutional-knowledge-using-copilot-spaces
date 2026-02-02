@@ -14,11 +14,19 @@ Applies to all cross-functional projects that deliver product features, services
 - Psychological safety: encourage feedback and learning.
 
 ## Core Roles
-- Project Manager (PM): coordinates delivery, schedules, risk, communications.
-- Product Manager (PdM): defines outcomes, prioritizes backlog, and measures success.
-- Developers: implement features, collaborate on design and testability.
-- QA/Testing: validate quality and acceptance criteria.
-- Stakeholders: provide inputs and approvals.
+The following roles are typically involved in OctoAcme projects. Not all roles are required for every project—see the [Project Role Checklist](octoacme-project-role-checklist.md) to determine which roles your project needs.
+
+- **Project Manager (PM)**: coordinates delivery, schedules, risk, communications.
+- **Product Manager (PdM)**: defines outcomes, prioritizes backlog, and measures success.
+- **Developers**: implement features, collaborate on design and testability.
+- **QA/Testing**: validate quality and acceptance criteria.
+- **Stakeholders**: provide inputs and approvals.
+
+Additional roles may include UX Designer, Business Analyst, Release Manager, DevOps/Platform Engineer, Tech Lead, Sponsor, Security/Compliance, and Support/Customer Success.
+
+For detailed role descriptions, responsibilities, and interaction patterns, see:
+- [Roles & Personas](octoacme-roles-and-personas.md) - Complete role definitions
+- [Role-to-Artifact Ownership Matrix](octoacme-role-to-artifact-ownership.md) - Who owns which artifacts
 
 ## Key Artifacts
 - Project Charter / One-pager
